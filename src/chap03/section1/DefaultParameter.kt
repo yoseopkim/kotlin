@@ -19,4 +19,3 @@ fun add(name: String, email: String = "default") {
 fun defaultArgs(x: Int = 100, y: Int = 200) {
     println(x + y)
 }
-
