@@ -22,6 +22,4 @@ fun main() {
     val nestedLambda: () -> () -> Unit = {{println("nested")}}
 
     nestedLambda()
-
-
 }
