@@ -22,3 +22,5 @@ fun main() {
     val c2: Box<Animal> = Box<Cat>(Cat(10))
     println("c2.element.size = ${c2.element.size}")
 }
+
+
